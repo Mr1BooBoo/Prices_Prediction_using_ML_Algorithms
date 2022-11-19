@@ -1,4 +1,4 @@
-# Prices_Prediction_using_ML_Algorithms
+# Prices_Prediction_using_LR&RF_Algorithms
 https://colab.research.google.com/drive/1DovW1lXTg0TDHjXVlLmsJFgUEaeADJwr?usp=sharing
 
 a Short description about the project:
